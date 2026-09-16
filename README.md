@@ -1,5 +1,4 @@
 # test
-A CSS for my lioden den Mortal Kombat Theme
 /* jester and katie's free css template -
 made based off of katie's v2 free css template / should be considered v3
 
